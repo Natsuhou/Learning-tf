@@ -1,0 +1,9 @@
+Feed Forward (Neural Network)
+Compare input to intended output
+We compare it using a cost or loss function
+Cost function (cross entropy)
+Optimization function (optimizer > minimize cost) (AdamOptimizer, SGD, AdaGrad)
+
+Backpropegation
+
+Backpropagation + feed forward = epoch
