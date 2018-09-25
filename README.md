@@ -1,34 +1,10 @@
-## Learning About Neural Networks
-### Set-up
+# Set-Up Guide (Pycharm IDE w/Tensorflow)
+## Downloads
+1. Download pycharm from [pycharm](https://www.jetbrains.com/pycharm/)
+2. Download python from [python](https://www.python.org/downloads/release/python-360/)
+3. Download anaconda from [anaconda](https://www.anaconda.com/download/)
 
-### Markdown
+## Setting-Up Pycharm
+1. Run the installer
+2. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shogatsu/What-Is-A-Neural-Network-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
