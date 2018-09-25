@@ -1,5 +1,5 @@
 # Neural Networks via TensorFlow
-###(Pycharm IDE w/Tensorflow)
+### (Pycharm IDE w/Tensorflow)
 ## Downloads
 1. Download pycharm from [pycharm](https://www.jetbrains.com/pycharm/)
 2. Download python from [python](https://www.python.org/downloads/release/python-360/)
