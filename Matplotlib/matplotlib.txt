@@ -1,0 +1,2 @@
+From what I read, matplotlib is a library that is essentially used for graphing any types of data on a 2d
+plane. Matplotlib is a package by itself and matplotlib.pyplot is a module built into matplotlib.
